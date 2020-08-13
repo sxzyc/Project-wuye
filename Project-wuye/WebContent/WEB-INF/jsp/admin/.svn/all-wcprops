@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/web/!svn/ver/197/trunk/web/WebContent/admin
+END
+admin-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/197/trunk/web/WebContent/admin/admin-edit.jsp
+END
+admin-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/web/!svn/ver/197/trunk/web/WebContent/admin/admin-add.jsp
+END
+admin-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/197/trunk/web/WebContent/admin/admin-list.jsp
+END

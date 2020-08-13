@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/grunt
+END
+bs-lessdoc-parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/grunt/bs-lessdoc-parser.js
+END
+sauce_browsers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/grunt/sauce_browsers.yml
+END
+bs-glyphicons-data-generator.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js
+END
+bs-raw-files-generator.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/grunt/bs-raw-files-generator.js
+END

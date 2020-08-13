@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins
+END
+size.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/size.less
+END
+vendor-prefixes.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/vendor-prefixes.less
+END
+gradients.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/gradients.less
+END
+grid-framework.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/grid-framework.less
+END
+background-variant.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/background-variant.less
+END
+responsive-visibility.less
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/responsive-visibility.less
+END
+panels.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/panels.less
+END
+image.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/image.less
+END
+tab-focus.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/tab-focus.less
+END
+nav-vertical-align.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/nav-vertical-align.less
+END
+text-overflow.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/text-overflow.less
+END
+grid.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/grid.less
+END
+forms.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/forms.less
+END
+pagination.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/pagination.less
+END
+alerts.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/alerts.less
+END
+hide-text.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/hide-text.less
+END
+text-emphasis.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/text-emphasis.less
+END
+table-row.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/table-row.less
+END
+clearfix.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/clearfix.less
+END
+buttons.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/buttons.less
+END
+resize.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/resize.less
+END
+labels.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/labels.less
+END
+border-radius.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/border-radius.less
+END
+list-group.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/list-group.less
+END
+reset-filter.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/reset-filter.less
+END
+progress-bar.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/progress-bar.less
+END
+nav-divider.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/nav-divider.less
+END
+center-block.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/center-block.less
+END
+opacity.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/bootstrap/less/mixins/opacity.less
+END

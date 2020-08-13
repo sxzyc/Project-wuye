@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar/license.txt
+END
+.bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar/.bower.json
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar/bower.json
+END
+changelog.md
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar/changelog.md
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/fullcalendar/readme.md
+END

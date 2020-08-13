@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service
+END
+ICustomAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/ICustomAccountService.java
+END
+IAdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/IAdminService.java
+END
+IInspectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/IInspectionService.java
+END
+IMaintainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/IMaintainService.java
+END
+INoticeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/INoticeService.java
+END
+IHouseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/service/IHouseService.java
+END

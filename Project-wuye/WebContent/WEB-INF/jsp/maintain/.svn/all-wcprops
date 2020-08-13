@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/web/!svn/ver/197/trunk/web/WebContent/maintain
+END
+user-maintain-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/197/trunk/web/WebContent/maintain/user-maintain-list.jsp
+END
+maintain-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/204/trunk/web/WebContent/maintain/maintain-add.jsp
+END
+maintain-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/web/!svn/ver/197/trunk/web/WebContent/maintain/maintain-list.jsp
+END
+user-maintain-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/web/!svn/ver/204/trunk/web/WebContent/maintain/user-maintain-add.jsp
+END
+maintain-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/web/!svn/ver/204/trunk/web/WebContent/maintain/maintain-edit.jsp
+END

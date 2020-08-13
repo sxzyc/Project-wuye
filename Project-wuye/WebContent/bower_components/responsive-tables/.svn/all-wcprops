@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables
+END
+responsive-tables.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables/responsive-tables.js
+END
+.bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables/.bower.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables/.gitignore
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables/index.html
+END
+responsive-tables.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/responsive-tables/responsive-tables.css
+END

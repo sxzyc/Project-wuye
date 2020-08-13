@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/web/!svn/ver/199/trunk/web/WebContent/house
+END
+house-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/199/trunk/web/WebContent/house/house-edit.jsp
+END
+user-house-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/198/trunk/web/WebContent/house/user-house-list.jsp
+END
+house-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/web/!svn/ver/199/trunk/web/WebContent/house/house-add.jsp
+END
+house-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/197/trunk/web/WebContent/house/house-list.jsp
+END

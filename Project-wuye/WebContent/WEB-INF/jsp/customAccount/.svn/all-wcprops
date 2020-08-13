@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/web/!svn/ver/201/trunk/web/WebContent/customAccount
+END
+custom-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/197/trunk/web/WebContent/customAccount/custom-edit.jsp
+END
+user-custom-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/web/!svn/ver/197/trunk/web/WebContent/customAccount/user-custom-list.jsp
+END
+custom-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/197/trunk/web/WebContent/customAccount/custom-add.jsp
+END
+user-change-passwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/197/trunk/web/WebContent/customAccount/user-change-passwd.jsp
+END
+custom-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/201/trunk/web/WebContent/customAccount/custom-list.jsp
+END

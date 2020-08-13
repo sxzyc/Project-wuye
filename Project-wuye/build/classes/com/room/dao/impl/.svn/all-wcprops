@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl
+END
+InspectionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/InspectionDaoImpl.java
+END
+MaintainDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/MaintainDaoImpl.java
+END
+NoticeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/NoticeDaoImpl.java
+END
+HouseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/HouseDaoImpl.java
+END
+CustomAccountDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/CustomAccountDaoImpl.java
+END
+AdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/impl/AdminDaoImpl.java
+END

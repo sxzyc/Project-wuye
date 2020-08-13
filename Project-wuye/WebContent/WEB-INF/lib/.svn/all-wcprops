@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib
+END
+annotations-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/annotations-api.jar
+END
+el-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/el-api.jar
+END
+tomcat-i18n-fr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/tomcat-i18n-fr.jar
+END
+tomcat-i18n-es.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/tomcat-i18n-es.jar
+END
+jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/jstl-1.1.2.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/catalina.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/commons-dbcp-1.4.jar
+END
+commons-pool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/commons-pool.jar
+END
+jasper-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/jasper-el.jar
+END
+jasper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/jasper.jar
+END
+rt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/rt.jar
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/tomcat-coyote.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/servlet-api.jar
+END
+tomcat-i18n-ja.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/tomcat-i18n-ja.jar
+END
+catalina-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/catalina-ant.jar
+END
+standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/standard-1.1.2.jar
+END
+tomcat-dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/tomcat-dbcp.jar
+END
+ojdbc14_11g.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/ojdbc14_11g.jar
+END
+catalina-tribes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/catalina-tribes.jar
+END
+catalina-ha.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/catalina-ha.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/jsp-api.jar
+END
+jasper-jdt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/web/!svn/ver/3/trunk/web/WebContent/WEB-INF/lib/jasper-jdt.jar
+END

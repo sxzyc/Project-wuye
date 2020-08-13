@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/web/!svn/ver/199/trunk/web/WebContent/notice
+END
+notice-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/web/!svn/ver/199/trunk/web/WebContent/notice/notice-edit.jsp
+END
+user-notice-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/web/!svn/ver/197/trunk/web/WebContent/notice/user-notice-list.jsp
+END
+notice-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/web/!svn/ver/199/trunk/web/WebContent/notice/notice-add.jsp
+END
+notice-view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/web/!svn/ver/192/trunk/web/WebContent/notice/notice-view.jsp
+END
+notice-list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/web/!svn/ver/197/trunk/web/WebContent/notice/notice-list.jsp
+END

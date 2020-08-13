@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/composer.json
+END
+jquery-migrate.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/jquery-migrate.js
+END
+jquery-migrate.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/jquery-migrate.min.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/package.json
+END
+.bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/.bower.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/.gitignore
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/bower.json
+END
+component.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/component.json
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/jquery.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/README.md
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/jquery.min.js
+END
+jquery.min.map
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/jquery/jquery.min.map
+END

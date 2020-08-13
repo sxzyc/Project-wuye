@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/LICENSE
+END
+.bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/.bower.json
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/bower.json
+END
+moment.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/moment.js
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/readme.md
+END

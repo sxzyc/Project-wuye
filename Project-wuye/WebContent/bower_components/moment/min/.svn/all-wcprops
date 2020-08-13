@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min
+END
+langs.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min/langs.js
+END
+langs.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min/langs.min.js
+END
+moment-with-langs.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min/moment-with-langs.js
+END
+moment-with-langs.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min/moment-with-langs.min.js
+END
+moment.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/web/!svn/ver/3/trunk/web/WebContent/bower_components/moment/min/moment.min.js
+END

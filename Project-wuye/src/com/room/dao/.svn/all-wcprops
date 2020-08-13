@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao
+END
+IHouseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/IHouseDao.java
+END
+ICustomAccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/ICustomAccountDao.java
+END
+IAdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/IAdminDao.java
+END
+IInspectionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/IInspectionDao.java
+END
+IMaintainDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/IMaintainDao.java
+END
+INoticeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/web/!svn/ver/3/trunk/web/src/com/cissst/dao/INoticeDao.java
+END

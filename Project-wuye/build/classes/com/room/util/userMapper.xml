@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="rjxy.userMapper1"> 
+<insert id="insertAdmin" parameterType="com.room.bean.Admin">
+insert into admin(name,password,sex,age,tel,phone,addr,memo) values(#{name},#{password},#{sex},#{age},#{tel},#{phone},#{addr},#{memo});
+</insert>
+<delete id="deleteAdmin" parameterType="com.room.bean.Admin">
+delete from admin where id=#{id};
+</delete>
+<update id="updateAdmin" parameterType="com.room.bean.Admin">
+update admin set name=#{name},password=#{password},sex=#{sex},age=#{age},tel=#{tel},phone=#{phone},addr=#{addr},memo=#{memo} where id=#{id};
+</update>
+	<select id="getAdmin" parameterType="int" 
+		resultType="com.room.bean.Admin">
+		select * from admin where id=#{id};
+	</select>
+	<select id="selectAllAdmins" resultType="com.room.bean.Admin">
+		select * from admin;
+	</select>
+	<select id="selectAdmin" parameterType="com.room.bean.Admin" resultType="com.room.bean.Admin">
+		select * from admin where name=#{name} and password=#{password};
+	</select>
+	
+	
+	<insert id="insertCustomAccount" parameterType="com.room.bean.CustomAccount">
+insert into custom_account(username,password,ownerid,carid) values(#{username},#{password},#{ownerid},#{carid});
+</insert>
+<delete id="deleteCustomAccount" parameterType="com.room.bean.CustomAccount">
+delete from custom_account where accountid=#{accountid};
+</delete>
+<update id="updateCustomAccount" parameterType="com.room.bean.CustomAccount">
+update custom_account set username=#{username},password=#{password},ownerid=#{ownerid},carid=#{carid} where accountid=#{accountid};
+</update>
+<select id="getCustomAccount" parameterType="int" 
+		resultType="com.room.bean.CustomAccount">
+		select * from custom_account where accountid=#{accountid};
+	</select>
+<select id="selectAllCustomAccounts" resultType="com.room.bean.CustomAccount">
+		select * from custom_account;
+	</select>
+	<select id="selectCustomAccount" parameterType="com.room.bean.CustomAccount" resultType="com.room.bean.CustomAccount">
+		select * from custom_account where username=#{username} and password=#{password};
+	</select>
+	
+<insert id="insertCharge" parameterType="com.room.bean.Charge">
+insert into charge(metre,name,phone,username,status,sdate,rdate,tcost,scost,smemo) values(#{metre},#{name},#{phone},#{username},#{status},str_to_date(#{sdate},'%Y-%m-%d'),str_to_date(#{rdate},'%Y-%m-%d'),#{tcost},#{scost},#{smemo});
+</insert>
+<delete id="deleteCharge" parameterType="com.room.bean.Charge">
+delete from charge where id=#{id};
+</delete>
+<update id="updateCharge" parameterType="com.room.bean.Charge">
+update charge  set  metre=#{metre},name=#{name},phone=#{phone},username=#{username},status=#{status},sdate=str_to_date(#{sdate},'%Y-%m-%d'),rdate=str_to_date(#{rdate},'%Y-%m-%d'),tcost=#{tcost},scost=#{scost},smemo=#{smemo} where id=#{id};
+</update>
+	<select id="getCharge" parameterType="int" 
+		resultType="com.room.bean.Charge">
+		select * from charge where id=#{id};
+	</select>
+	<select id="selectAllCharges" resultType="com.room.bean.Charge">
+		select id,metre,name,phone,username,status,date_format(sdate,'%Y-%m-%d') sdate, date_format(rdate,'%Y-%m-%d') rdate,tcost,scost,smemo from charge order by sdate;
+	</select>
+	<select id="selectCharge" parameterType="String" resultType="com.room.bean.Charge">
+		select id,metre,name,phone,username,status,date_format(sdate,'%Y-%m-%d') sdate,date_format(rdate,'%Y-%m-%d') rdate,tcost,scost,smemo from charge where username = #{username};
+	</select>
+	
+	<insert id="insertHouse" parameterType="com.room.bean.House">
+insert into house(num,dep,type,area,sell,unit,floor,direction,memo,ownerid) values(#{num},#{dep},#{type},#{area},#{sell},#{unit},#{floor},#{direction},#{memo},#{ownerid});
+</insert>
+<delete id="deleteHouse" parameterType="com.room.bean.House">
+delete from house where id=#{id};
+</delete>
+<update id="updateHouse" parameterType="com.room.bean.House">
+update house set num=#{num},dep=#{dep},type=#{type},area=#{area},sell=#{sell},unit=#{unit},floor=#{floor},direction=#{direction},memo=#{memo},ownerid=#{ownerid} where id=#{id};
+</update>
+	<select id="getHouse" parameterType="int" 
+		resultType="com.room.bean.House">
+		select * from house where id=#{id};
+	</select>
+	<select id="selectAllHouses" resultType="com.room.bean.House">
+		select * from house order by dep;
+	</select>
+	<select id="selectHouse" parameterType="int"  resultType="com.room.bean.House">
+		select * from house where ownerid=#{oid};
+	</select>
+	
+	<insert id="insertInspection" parameterType="com.room.bean.Inspection">
+insert into inspection(person,type,itime,conductor,party,result,memo) values(#{person},#{type},str_to_date(#{itime},'%Y-%m-%d'),#{conductor},#{party},#{result},#{memo});
+</insert>
+<delete id="deleteInspection" parameterType="com.room.bean.Inspection">
+delete  from inspection where id=#{id};
+</delete>
+<update id="updateInspection" parameterType="com.room.bean.Inspection">
+update inspection set person = #{person},type = #{type},itime = str_to_date(#{itime},'%Y-%m-%d'),conductor = #{conductor},party = #{party},result = #{result},memo =#{memo} where id=#{id};
+</update>
+	<select id="getInspection" parameterType="int" 
+		resultType="com.room.bean.Inspection">
+		select id,person,type,date_format(itime,'%Y-%m-%d') itime,conductor,party,result,memo from inspection where id =#{id};
+	</select>
+	<select id="selectAllInspection" resultType="com.room.bean.Inspection">
+		select id,person,type,date_format(itime,'%Y-%m-%d') itime,conductor,party,result,memo from inspection order by itime;
+	</select>
+	
+	<insert id="insertMaintain" parameterType="com.room.bean.Maintain">
+insert into maintain(thing,status,homesnumber,sdate,rdate,tcost,scost,maintainer,smemo) values(#{thing},#{status},#{homesnumber},str_to_date(#{sdate},'%Y-%m-%d'),str_to_date(#{rdate},'%Y-%m-%d'),#{tcost},#{scost},#{maintainer},#{smemo});
+</insert>
+<delete id="deleteMaintain" parameterType="com.room.bean.Maintain">
+delete  from maintain where id=#{id};
+</delete>
+<update id="updateMaintain" parameterType="com.room.bean.Maintain">
+update maintain  set  thing=#{thing},status=#{status},homesnumber=#{homesnumber},sdate=str_to_date(#{sdate},'%Y-%m-%d'),rdate=str_to_date(#{rdate},'%Y-%m-%d'),tcost=#{tcost},scost=#{scost},maintainer=#{maintainer},smemo=#{smemo} where id=#{id};
+</update>
+	<select id="getMaintain" parameterType="int" 
+		resultType="com.room.bean.Maintain">
+		select id,thing,status,homesnumber,date_format(sdate,'%Y-%m-%d') sdate,date_format(rdate,'%Y-%m-%d') rdate,tcost,scost,maintainer,smemo from maintain where id =#{id};
+	</select>
+	<select id="selectAllMaintain" resultType="com.room.bean.Maintain">
+		select id,thing,status,homesnumber,date_format(sdate,'%Y-%m-%d') sdate, date_format(rdate,'%Y-%m-%d') rdate,tcost,scost,maintainer,smemo from maintain order by sdate;
+	</select>
+	<select id="selectMaintain" parameterType="String"  resultType="com.room.bean.Maintain">
+		select id,thing,status,homesnumber,date_format(sdate,'%Y-%m-%d') sdate,date_format(rdate,'%Y-%m-%d') rdate,tcost,scost,maintainer,smemo from maintain where maintainer = #{maintainer};
+	</select>
+	
+	<insert id="insertNotice" parameterType="com.room.bean.Notice">
+insert into notice(content,ndate,title,uper) values(#{content},str_to_date(#{ndate},'%Y-%m-%d'),#{title},#{uper});
+</insert>
+<delete id="deleteNotice" parameterType="com.room.bean.Notice">
+delete  from notice where id=#{id};
+</delete>
+<update id="updateNotice" parameterType="com.room.bean.Notice">
+update notice set content=#{content},ndate=str_to_date(#{ndate},'%Y-%m-%d'),title=#{title},uper=#{uper} where id=#{id};
+</update>
+	<select id="getNotice" parameterType="int" 
+		resultType="com.room.bean.Notice">
+		select id,content,date_format(ndate,'%Y-%m-%d') ndate,title,uper from notice where id=#{id};
+	</select>
+	<select id="selectAllNotice" resultType="com.room.bean.Notice">
+		select id,content,date_format(ndate,'%Y-%m-%d') ndate,title,uper from notice  order by ndate desc;
+	</select>
+	
+</mapper>
