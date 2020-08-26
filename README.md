@@ -1,4 +1,4 @@
-# Project-wuye
+# Project-wuye—— 27766738726
 # 介绍
 基于JavaEE小区物业管理系统，项目采用MVC模式结合SSM框架进行实现，前端页面使用Bootstrap进行实现。
 ## 功能
@@ -27,4 +27,13 @@
  - 数据库：Mysql
 ### 程序设置
  - 配置mysql数据库链接信息
+  ![说明](https://tva1.sinaimg.cn/large/005RH3Rxgy1gi3zeu1ye4j31b40hoaby.jpg)
+ ### 部署说明
+- `conf.xml`是MyBatis核心配置文件，所有SQL语句统一放在`userMapper.xml`。（SQL语句不涉及多表查询）
+  ![说明](https://tva1.sinaimg.cn/large/005RH3Rxgy1gi3zfkkvngj31dw0f4acx.jpg)
+  ![说明](https://tvax1.sinaimg.cn/large/005RH3Rxgy1gi3ziie125j31gx0i542d.jpg)
+ ### 截图赏析
+ ![登录](https://tvax1.sinaimg.cn/large/005RH3Rxgy1gi3z8xpluhj31gn0pee81.jpg)
+ ![首页](https://tva1.sinaimg.cn/large/005RH3Rxgy1gi3zkwdx3pj31h10pstae.jpg)
+ ![管理](https://tvax1.sinaimg.cn/large/005RH3Rxgy1gi3zmdromzj31go0ow77d.jpg)
 
